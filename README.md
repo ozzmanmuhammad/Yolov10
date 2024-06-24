@@ -13,13 +13,13 @@ This notebook was created using the Roboflow YOLOv9 notebook as a base and has b
 - **Supervision Library**: Added supervision library for better model management and tracking.
 
 ## Dataset:
-- **Players Detection**: https://colab.research.google.com/drive/1tTSf8s7KXjoY0PrPWawFrqSV4zTqTJZs?usp=sharing
+- **Players Detection**: https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc
 - **Match Clip**: https://www.kaggle.com/c/dfl-bundesliga-data-shootout/data
 
 ## Getting Started
 
 ### COLAB NOTEBOOK
-Use this link to open the notebook in COLAB
+Use this link to open the notebook in COLAB: https://colab.research.google.com/drive/1tTSf8s7KXjoY0PrPWawFrqSV4zTqTJZs?usp=sharing
 
 ## Contributing
 
