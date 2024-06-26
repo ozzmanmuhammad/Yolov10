@@ -1,1 +1,23 @@
+## Dataset:
+- **Players Detection**: https://universe.roboflow.com/mohamed-traore-2ekkp/face-detection-mik1i/dataset/15
+- **Match Clip**: https://www.pexels.com/search/videos/people%20walking/
+
+## Getting Started
+
+### COLAB NOTEBOOK
+Use this link to open the notebook in COLAB: https://colab.research.google.com/drive/1K3YFePs0CQIsAMLKcvGf-SUmA7pYH-pR?usp=sharing
+
+## Contributing
+
+Contributions are welcome! Please submit a pull request or open an issue to discuss your changes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- [Roboflow](https://roboflow.com) for providing the original YOLOv9 notebook.
+- The authors of the inference and supervision libraries for their valuable tools.
+
 
